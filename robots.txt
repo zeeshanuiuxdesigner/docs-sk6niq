@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-j73r5y.originmovement.co.nz/sitemap.xml
